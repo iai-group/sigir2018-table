@@ -2,7 +2,7 @@
 
 This repository contains resources developed within the following paper:
 
-> S. Zhang and K. Balog. On-the-fly Table Generation. In: * SIGIR '18*, July 2018.
+> S. Zhang and K. Balog. On-the-fly Table Generation. In: *Proceedings of SIGIR 2018*, July 2018.
 
 
 ## Test collection

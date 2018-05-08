@@ -1,0 +1,119 @@
+SemSearch_LS-1	Apollo astronauts walked on the Moon
+SemSearch_LS-2	Arab states of the Persian Gulf
+SemSearch_LS-3	astronauts landed on the Moon
+SemSearch_LS-4	Axis powers of World War II
+SemSearch_LS-5	books of the Jewish canon
+SemSearch_LS-6	boroughs of New York City
+SemSearch_LS-7	Branches of the US military
+SemSearch_LS-8	continents in the world
+SemSearch_LS-11	dioceses of the church of ireland
+SemSearch_LS-12	first targets of the atomic bomb
+SemSearch_LS-13	five great epics of Tamil literature
+SemSearch_LS-14	gods dwelt on Mount Olympus
+SemSearch_LS-16	hijackers in the September 11 attacks
+SemSearch_LS-19	kenya captain in cricket
+SemSearch_LS-20	kublai khan siblings
+SemSearch_LS-22	major leagues in the united states
+SemSearch_LS-25	members of u2
+SemSearch_LS-29	nations Portuguese is an official language
+SemSearch_LS-31	permanent members of the UN Security Council
+SemSearch_LS-33	provinces and territories of Canada
+SemSearch_LS-34	ratt albums
+SemSearch_LS-35	republics of the former Yugoslavia
+SemSearch_LS-36	revolutionaries of 1959 in Cuba
+SemSearch_LS-37	standard axioms of set theory
+SemSearch_LS-39	ten ancient Greek city kingdoms of Cyprus
+SemSearch_LS-41	the four of the companions of the prophet
+SemSearch_LS-42	twelve tribes or sons of Israel
+SemSearch_LS-44	languages do they speak in afghanistan
+SemSearch_LS-50	wonders of the ancient world
+TREC_Entity-1	Carriers that Blackberry makes phones for
+TREC_Entity-2	Winners of the ACM Athena award
+TREC_Entity-4	Professional sports teams in Philadelphia
+TREC_Entity-5	Products of Medimmune, Inc
+TREC_Entity-6	Organizations that award Nobel prizes
+TREC_Entity-7	Airlines that currently use Boeing 747 planes
+TREC_Entity-9	Members of The Beaux Arts Trio
+TREC_Entity-10	Campuses of Indiana University
+TREC_Entity-12	Airlines that Air Canada has code share flights with
+TREC_Entity-15	Universities that are members of the SEC conference for football
+TREC_Entity-17	Chefs with a show on the Food Network
+TREC_Entity-18	Members of the band Jefferson Airplane
+TREC_Entity-19	Companies that John Hennessey serves on the board of
+TREC_Entity-20	Scotch whisky distilleries on the island of Islay
+QALD2_te-1	German cities have more than 250000 inhabitants
+QALD2_te-6	all professional skateboarders from Sweden
+QALD2_te-8	To countries does the Himalayan mountain system extend
+QALD2_te-9	a list of all trumpet players that were bandleaders
+QALD2_te-12	all world heritage sites designated within the past five years
+QALD2_te-13	is the youngest player in the Premier League
+QALD2_te-14	all members of Prodigy
+QALD2_te-15	is the longest river
+QALD2_te-17	all cars that are produced in Germany
+QALD2_te-19	all people that were born in Vienna and died in Berlin
+QALD2_te-28	all movies directed by Francis Ford Coppola
+QALD2_te-29	all actors starring in movies directed by and starring William Shatner
+QALD2_te-33	all Australian nonprofit organizations
+QALD2_te-34	In military conflicts did Lawrence of Arabia participate
+QALD2_te-35	developed Skype
+QALD2_te-39	all companies in Munich
+QALD2_te-40	List all boardgames by GMT
+QALD2_te-41	founded Intel
+QALD2_te-43	all breeds of the German Shepherd dog
+QALD2_te-44	cities does the Weser flow through
+QALD2_te-45	countries are connected by the Rhine
+QALD2_te-51	all Frisian islands that belong to the Netherlands
+QALD2_te-55	Greek goddesses dwelt on Mount Olympus
+QALD2_te-57	the Apollo 14 astronauts
+QALD2_te-59	US states are in the same timezone as Utah
+QALD2_te-60	a list of all lakes in Denmark
+QALD2_te-63	all Argentine films
+QALD2_te-64	all launch pads operated by NASA
+QALD2_te-80	all books by William Goldman with more than 300 pages
+QALD2_te-81	books by Kerouac were published by Viking Press
+QALD2_te-82	a list of all American inventions
+QALD2_te-88	films starring Clint Eastwood did he direct himself
+QALD2_te-91	US State has the abbreviation MN
+QALD2_te-92	all songs from Bruce Springsteen released between 1980 and 1990
+QALD2_te-100	produces Orangina
+QALD2_tr-1	all female Russian astronauts
+QALD2_tr-4	river does the Brooklyn Bridge cross
+QALD2_tr-6	did Abraham Lincoln die
+QALD2_tr-8	states of Germany are governed by the Social Democratic Party
+QALD2_tr-10	In country does the Nile start
+QALD2_tr-11	countries have places with more than two caves
+QALD2_tr-15	created Goofy
+QALD2_tr-16	the capitals of all countries in Africa
+QALD2_tr-21	states border Illinois
+QALD2_tr-23	television shows were created by Walt Disney
+QALD2_tr-25	In films directed by Garry Marshall was Julia Roberts starring
+QALD2_tr-26	bridges are of the same type as the Manhattan Bridge
+QALD2_tr-28	European countries have a constitutional monarchy
+QALD2_tr-32	countries in the European Union adopted the Euro
+QALD2_tr-34	countries have more than two official languages
+QALD2_tr-40	is the highest mountain in Australia
+QALD2_tr-41	all soccer clubs in Spain
+QALD2_tr-43	is the mayor of New York City
+QALD2_tr-45	telecommunications organizations are located in Belgium
+QALD2_tr-49	all companies in the advertising industry
+QALD2_tr-51	all school types
+QALD2_tr-52	presidents were born in 1945
+QALD2_tr-53	all presidents of the United States
+QALD2_tr-57	List all episodes of the first season of the HBO television series The Sopranos
+QALD2_tr-59	all people with first name Jimmy
+QALD2_tr-61	mountains are higher than the Nanga Parbat
+QALD2_tr-62	created Wikipedia
+QALD2_tr-63	all actors starring in Batman Begins
+QALD2_tr-64	software has been developed by organizations founded in California
+QALD2_tr-65	companies work in the aerospace industry as well as on nuclear reactor technology
+QALD2_tr-68	actors were born in Germany
+QALD2_tr-69	caves have more than 3 entrances
+QALD2_tr-70	all films produced by Hal Roach
+QALD2_tr-72	languages are spoken in Estonia
+QALD2_tr-74	capitals in Europe were host cities of the summer olympic games
+QALD2_tr-78	all books written by Danielle Steel
+QALD2_tr-79	airports are located in California USA
+QALD2_tr-83	produced films starring Natalie Portman
+QALD2_tr-84	all movies with Tom Cruise
+QALD2_tr-89	all soccer clubs in the Premier League
+QALD2_tr-91	organizations were founded in 1950

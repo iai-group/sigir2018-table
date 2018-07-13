@@ -63,11 +63,21 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
 ## Citation
 ```
 @inproceedings{Zhang:2018:OTG,
-    author = {Zhang, Shuo and Balog, Krisztian},
-    title = {On-the-fly Table Generation},
-    booktitle = {Proc. of the SIGIR '18},
-    year = {2018},
-    pages = {},
+ author = {Zhang, Shuo and Balog, Krisztian},
+ title = {On-the-fly Table Generation},
+ booktitle = {The 41st International ACM SIGIR Conference on Research \&\#38; Development in Information Retrieval},
+ series = {SIGIR '18},
+ year = {2018},
+ isbn = {978-1-4503-5657-2},
+ location = {Ann Arbor, MI, USA},
+ pages = {595--604},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3209978.3209988},
+ doi = {10.1145/3209978.3209988},
+ acmid = {3209988},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {entity-oriented search, structured data search, table generation},
 }
 ```
 
